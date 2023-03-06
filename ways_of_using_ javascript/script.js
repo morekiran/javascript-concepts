@@ -1,0 +1,1 @@
+alert("if you're to see this, then you've linked script. js correctly")
